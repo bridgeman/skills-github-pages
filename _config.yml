@@ -1,0 +1,12 @@
+theme: minima
+title: pb.id.au
+description: Personal Blog & Homepage
+url: https://pb.id.au
+author:
+  name: Peter Bridgeman
+  email: admin@peterbridgeman.com
+  url: https://pb.id.au
+
+paginate: 3
+owner: Peter Bridgeman
+year: 2025
